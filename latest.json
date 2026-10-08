@@ -1,15 +1,15 @@
 {
-  "version": "1.0.8",
-  "url": "http://147.45.48.35/dl/EcoplanVPN-1.0.8.exe",
-  "sha256": "1559d73c1cc5d2dd59f9eac576c369aa310a55978170d2f7a2330f104477ff37",
+  "version": "1.0.9",
+  "url": "http://147.45.48.35/dl/EcoplanVPN-1.0.9.exe",
+  "sha256": "b396f32a8bf7ad581a3e96df692613d24e369eeb54264e87a1ba015ed58d097c",
   "size": 67362808,
-  "notes": "Обновления и список серверов теперь приходят и с GitHub/jsDelivr и российского реле — даже если все IP серверов сменились. Новый вариант «Через Россию» (реле). Карточки: Нидерланды 1 / Нидерланды 2 / Через Россию → Нидерланды 1 / → Нидерланды 2. Исправлена отправка лога.",
-  "sig": "MEUCIQCm2CCw2Euj/v1j6zjo4EMAon7M1Cyf8qvf3Xdkv2Rv3gIgJtPhlwnQVzG1asLCV9U0uEP8nfRLsmyvGnljpvvmGUo=",
-  "file": "EcoplanVPN-1.0.8.exe",
+  "notes": "Исправлено подключение «Через Россию»: клиент отправлял на реле ключ NL-серверов вместо ключа реле.",
+  "sig": "MEQCIEp9mi81jKvRbs5Tv2/a4faDPUFLdsngM5T/0QGmaqrCAiAT1GeL6DZ/rvW6mkTzIzl5HVgsgj/sstYtgNYr72Lipg==",
+  "file": "EcoplanVPN-1.0.9.exe",
   "mirrors": [
-    "https://github.com/Rust20200/ecoplan-vpn-dist/releases/download/v1.0.8/EcoplanVPN-1.0.8.exe",
-    "http://192.124.173.84/EcoplanVPN-1.0.8.exe",
-    "http://194.87.216.61/EcoplanVPN-1.0.8.exe",
+    "https://github.com/Rust20200/ecoplan-vpn-dist/releases/download/v1.0.9/EcoplanVPN-1.0.9.exe",
+    "http://192.124.173.84/EcoplanVPN-1.0.9.exe",
+    "http://194.87.216.61/EcoplanVPN-1.0.9.exe",
     "http://192.124.173.84/EcoplanVPN.exe",
     "http://194.87.216.61/EcoplanVPN.exe"
   ]
