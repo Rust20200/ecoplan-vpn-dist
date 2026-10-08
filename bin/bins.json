@@ -1,0 +1,14 @@
+[
+  {
+    "version": "xray.exe",
+    "url": "http://147.45.48.35/bin/xray.exe",
+    "sha256": "1d9674327972a21afd4c906a7a72bb0856935aa9e0227c87f34f03d11a88bddf",
+    "size": 36904960,
+    "sig": "MEUCIQCcmT/sk1VEmyArCb7oGzPjVK5UIrLDtwlFIN7RekDmZgIgO27p0KCUatc8oQ451V6EDDeguZzehdUHrgAWo7M4hgw=",
+    "mirrors": [
+      "http://192.124.173.84/bin/xray.exe",
+      "http://194.87.216.61/bin/xray.exe",
+      "https://github.com/Rust20200/ecoplan-vpn-dist/releases/download/bins/xray.exe"
+    ]
+  }
+]
