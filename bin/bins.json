@@ -4,7 +4,7 @@
     "url": "http://147.45.48.35/bin/xray.exe",
     "sha256": "1d9674327972a21afd4c906a7a72bb0856935aa9e0227c87f34f03d11a88bddf",
     "size": 36904960,
-    "sig": "MEQCIBccPjGQAe2TVe2rBy21WfeZvhhxeervC0L6itA747ZFAiAOzbU/B+S+2IeF8AqMrLM/Kc7nHl05B2514ZL3zP4rUw==",
+    "sig": "MEYCIQDf1Xph5ot98it87TQ8S1y/ZSpMptrABlQ05qXTDKQPzgIhAJirKfHk+MJlmKCSWgrHjEIn7vduwZV1hq9H8BBQp8Av",
     "mirrors": [
       "http://192.124.173.84/bin/xray.exe",
       "http://194.87.216.61/bin/xray.exe",
@@ -16,7 +16,7 @@
     "url": "http://147.45.48.35/bin/sing-box.exe",
     "sha256": "a4476dd768168a77e249050066bb32774addefcc37da123978623e7b2819de28",
     "size": 45492224,
-    "sig": "MEQCIDgiVL5PGiroKEPRX1zs+5xd7MP74YXz4RdUw2X0/Eh3AiAfUGvS7+mT8RyBFT6KBplHsUJWDDtoIzTNj0pKR/wqaQ==",
+    "sig": "MEQCIFcGxZHNsSt9VeJJ2RKyky5KdI1T4XrRjegARmsQacxyAiBdnpLzq7xHOfIA0bCcr7cLYDFuyzBim0Sk0WuEvfihhg==",
     "mirrors": [
       "http://192.124.173.84/bin/sing-box.exe",
       "http://194.87.216.61/bin/sing-box.exe",
@@ -28,7 +28,7 @@
     "url": "http://147.45.48.35/bin/wintun.dll",
     "sha256": "e5da8447dc2c320edc0fc52fa01885c103de8c118481f683643cacc3220dafce",
     "size": 427552,
-    "sig": "MEQCICGsLAxilt3s4hcRO2VbdZ4hoVJT2K5GaVUdQYbJsBJRAiAD/zzq33G6h5OwWbtAoy8MHjI+InoxEOCN+QNmvSvgxg==",
+    "sig": "MEUCIEC8MAy6NiyLABr2Cq3jNEjJ2Ln+sicAP2OryX/3qFRiAiEAqT11Qf1fj3TDBxbwrDWnGoB+RohBUvFyS/IdVgMyw7A=",
     "mirrors": [
       "http://192.124.173.84/bin/wintun.dll",
       "http://194.87.216.61/bin/wintun.dll",
